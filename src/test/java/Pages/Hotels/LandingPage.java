@@ -73,5 +73,5 @@ public class LandingPage extends Commands {
         goToMonth(dateValues[1] + " " + dateValues[2]);
         By allDatesLocator = By.xpath(monthDates_1 + dateValues[1] + " " + dateValues[2] + monthDates_2);
         selectDateInCalendar(allDatesLocator, dateValues[0]);
-    }+
+    }
 }
