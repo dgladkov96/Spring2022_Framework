@@ -1,4 +1,4 @@
-package Pages.Facebook;
+package Pages;
 
 import Web.MyDriver;
 import org.openqa.selenium.By;
@@ -10,7 +10,6 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.Set;
-
 
 public class Commands {
     // Create a local method to find WebElement
@@ -116,5 +115,3 @@ public class Commands {
         }
     }
 }
-
-
