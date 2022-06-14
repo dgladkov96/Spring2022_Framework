@@ -1,4 +1,4 @@
-package Pages.Facebook;
+package Pages;
 
 import Web.MyDriver;
 import org.openqa.selenium.By;
