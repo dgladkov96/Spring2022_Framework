@@ -1,7 +1,7 @@
 package Pages.Facebook;
 
 
-import Web.MyDriver;
+import Pages.Commands;
 import org.openqa.selenium.By;
 
 
